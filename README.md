@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=6149b8&size=24&lines=Hey+there,+I'm+Shreelakshmi+!;I'm+A+Data+Scientist.;Decoding+Data,+Driving+Decisions;A+Data+Alchemist;" alt="Typing SVG" >
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreelakshmi-22&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreelakshmi-22&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shreelakshmi-22/shreelakshmi-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
